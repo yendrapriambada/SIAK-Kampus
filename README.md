@@ -2,4 +2,4 @@
 This is under construction
 
 # Link Project
-babeluniversity.kelasbe.xyz
+http://babeluniversity.kelasbe.xyz/
